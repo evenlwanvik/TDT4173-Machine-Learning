@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.28)  28 AUG 2019 15:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.8.28)  5 SEP 2019 13:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -707,28 +707,28 @@ File: ts1qhv.fd 2009/09/25 v1.2 font definition file for TS1/qhv
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for T1+fdm on input line 136.
+LaTeX Font Info:    Try loading font information for T1+fdm on input line 147.
  (/usr/share/texlive/texmf-dist/tex/latex/droid/t1fdm.fd
 File: t1fdm.fd 2011/09/11 Fontinst v1.933 font definitions for T1/fdm.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 137.
+LaTeX Font Info:    Try loading font information for U+msa on input line 148.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 137.
+LaTeX Font Info:    Try loading font information for U+msb on input line 148.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [2] [3] (/workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.aux) ) 
 Here is how much of TeX's memory you used:
  15949 strings out of 492615
  293485 string characters out of 6131390
- 567299 words of memory out of 5000000
+ 563299 words of memory out of 5000000
  19535 multiletter control sequences out of 15000+600000
  42024 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,48p,684b,1482s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,48p,671b,1894s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/droid/droid-01.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/droid/DroidSansMono.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvri.pfb>
-Output written on /workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.pdf (3 pages, 97612 bytes).
+Output written on /workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.pdf (3 pages, 101118 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream

@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1567004553 "/workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.tex" "/workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.pdf" "assignment_1" 1567004555
+["pdflatex"] 1567690089 "/workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.tex" "/workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.pdf" "assignment_1" 1567690090
   "/etc/texmf/web2c/texmf.cnf" 1566983489 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/droid/droid-01.enc" 1480098667 3208 774a845f3c996f69f4af73dfaa7ec993 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -156,13 +156,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1551493644 34566 ab5be96bde1a5acfd4f881dbe566b5fb ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1566983513 3236060 fd056e42459c13cbcb0cc6e0a7cae8d4 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1566983531 4242694 ff7db58266bf3c55203005663206435b ""
-  "/workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.aux" 1567004554 1059 091ddc4bdf771b906cce1eff95ca2c68 ""
-  "/workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.tex" 1567004553 6258 d17a3661a9c9cfac1c1d81dd4cb4081d ""
-  "assignment_1.aux" 1567004554 1059 091ddc4bdf771b906cce1eff95ca2c68 ""
-  "assignment_1.tex" 1567004553 6258 d17a3661a9c9cfac1c1d81dd4cb4081d ""
+  "/workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.aux" 1567690090 1457 6409e7243c6b43e41054469338ca92b1 ""
+  "/workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.tex" 1567690088 8262 36ec818d0b4b4a61929686aa364eea45 ""
+  "assignment_1.aux" 1567690090 1457 6409e7243c6b43e41054469338ca92b1 ""
+  "assignment_1.tex" 1567690088 8262 36ec818d0b4b4a61929686aa364eea45 ""
   (generated)
-  "/workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.pdf"
-  "assignment_1.log"
   "/workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.log"
-  "assignment_1.aux"
+  "/workspaces/TDT4173-MachineLearning/Assignment_1/latex/assignment_1.pdf"
   "assignment_1.pdf"
+  "assignment_1.log"
+  "assignment_1.aux"
